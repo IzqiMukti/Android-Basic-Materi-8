@@ -1,0 +1,44 @@
+{
+  "project_info": {
+    "project_number": "1059695647954",
+    "firebase_url": "https://authandmessaging-2ac81.firebaseio.com",
+    "project_id": "authandmessaging-2ac81",
+    "storage_bucket": "authandmessaging-2ac81.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1059695647954:android:b06cace8c1f2fc1f",
+        "android_client_info": {
+          "package_name": "com.dycode.edu.auth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1059695647954-seh1l9voll44e7ib01bfb47irfa0cs4v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dycode.edu.auth",
+            "certificate_hash": "019d721fd23fef43f5d6ed1d8f9d15342cf4bf8c"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLmR1BarJHJ6oSTiIysvwc89saSLOWJpw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1059695647954-kq3tn4levf9bqu0bjmncliqch2med096.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
